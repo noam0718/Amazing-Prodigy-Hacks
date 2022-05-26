@@ -3,3 +3,5 @@ Hello! I'm Noam and I made these Prodigy hacks! I (probaly) will make more of th
   javascript:document.body.contentEditable = 'true'; document.designMode='on'; void 0
   
   Enjoy! (also sometimes these hacks don't work but they usually start working again from 1-7 days)
+  
+  P.S. in order for these hacks to work, type in javascript: before you paste the code, EXCEPT FOR THE EDIT HACK!!!
